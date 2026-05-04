@@ -753,16 +753,30 @@ This project is useful for learning:
 
 ## License
 
-No license has been specified for this project.
+The source code in this repository is licensed under the **MIT License**.
 
-If you plan to share, reuse, or publish this project, consider adding a license such as:
+Game assets, music, sprites, artwork, screenshots, and third-party resources are **not automatically covered by the MIT License** unless explicitly stated.
 
-- MIT License
-- Apache License 2.0
-- GNU GPLv3
+Some external resources are credited separately and may be subject to their own licenses or usage terms.
+
+This repository is based on the original **Reforest Revenge** project:
+
+```text
+https://github.com/JAAG041100/REFORESTREVENGE
+```
 
 > [!IMPORTANT]
-> Before adding a license, make sure all third-party assets used in the project allow redistribution.
+> Before reusing, modifying, or redistributing any visual, audio, or third-party asset from this project, check the original asset license or contact the project authors.
+
+### Asset Usage
+
+All original visual assets created for **Reforest Revenge** are owned by their respective creators.
+
+Unless otherwise stated, these assets are provided for viewing and educational/portfolio purposes only and may not be reused in other projects without permission.
+
+### Third-Party Assets
+
+Third-party assets, music, tools, and references remain under their original licenses and belong to their respective creators.
 
 ---
 
